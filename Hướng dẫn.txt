@@ -1,0 +1,8 @@
+Ae bỏ đặt file theo cấu trúc này để sau này dễ làm việc
+
+Ae làm phần giao diện của vai trò nào thì đặt file vào thư mục tương ứng đã được tạo
+File html thì đặt vào thư mục có đuôi UI, vd: home.html - customerUI
+File css thì đặt vào thư mục css, trong đó có thư mục con tương ứng rr
+Icons đồ thì bỏ vào thư mục icons
+File ảnh thì bỏ vào img
+File javascript(nếu có) thì bỏ vào js
